@@ -1,6 +1,10 @@
 <b> <center> Data Science </center></b> <br>
 <p>Data science at its most basic level is defined as using data to obtain insights and information that provide some level of value. Data science is evolving fast and has a wide range of possibilities surrounding it and so to limit it by that basic definition is kind of elementary. An extension of the that definition would be that data science is a complex combination of skills such as programming, data visualization, command line tools, databases, statistics, machine learning and more… in order to analyze data and obtain insights, information, and value from vast amounts of data.</p><br>
-<b> Skills Set:</b>
+<p>Data Science can bbe viewed as a process of using data to find solution to predict outcomes for problem statement or Extracting KNowledge and information from data.</p><br>
+<p>Data Scientist is any proffessional who possesses the ability to transform raw data into useful insight to make better business decision.</p>
+  <br>
+<b> Skills Set:</b><br>
+
 <b>1). Python Programming </b><br>
 <p>The very first thing you should learn is some basic python programming. Learn the Syntax, Variables and Data types, Lists and for Loops, Conditional Statements, Dictionaries and Frequency Tables, Functions, and Object Oriented Python to get started.</p><br>
 
