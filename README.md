@@ -48,9 +48,9 @@ Demonstrates you can do the job of a data scientist</p><br>
 <b> Your Resume: </b><br>
 
 <p>Should be easy to find relevant information in 6 seconds or less
-Highlights only the best/most important experiences
-Visually stands out against the sea of cookie-cutter applications
-Use the correct formula to frame your projects and experiences in terms of business impact(even if they were personal/academic projects)
+Highlights only the best/most important experiences<br>
+Visually stands out against the sea of cookie-cutter applications.<br>
+Use the correct formula to frame your projects and experiences in terms of business impact(even if they were personal/academic projects)<br>
 Format: What you did -> How you did it -> Impact it made<br>
 Bad: built recommender system in python.<br>
 Good: built recommender system in python using collaborative filtering and matrix factorizations that resulted in a 3% increase in basket size and a $3M increase in yearly revenue.<br>
