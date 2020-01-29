@@ -1,25 +1,26 @@
 <b> <center> Data Science </center></b> <br>
 <p>Data science at its most basic level is defined as using data to obtain insights and information that provide some level of value. Data science is evolving fast and has a wide range of possibilities surrounding it and so to limit it by that basic definition is kind of elementary. An extension of the that definition would be that data science is a complex combination of skills such as programming, data visualization, command line tools, databases, statistics, machine learning and more… in order to analyze data and obtain insights, information, and value from vast amounts of data.</p><br>
-<b>Python Programming </b><br>
+<b> Skills Set:</b>
+<b>1). Python Programming </b><br>
 <p>The very first thing you should learn is some basic python programming. Learn the Syntax, Variables and Data types, Lists and for Loops, Conditional Statements, Dictionaries and Frequency Tables, Functions, and Object Oriented Python to get started.</p><br>
 
 
-<b> Data Analysis and Visualization.</b><br>
+<b>2). Data Analysis and Visualization.</b><br>
 <p>Now we want to learn data analysis and visualization. First you will want to start off by learning pandas and numpy for cleaning and exploring your data. Then you will want to learn matplotlib for exploratory data visualization and storytelling with your data.</p><br>
 
 
-<b> Command Line Tools.</b><br>
+<b>3). Command Line Tools.</b><br>
 <p>Next you will want to learn how to navigate the file directory, create and delete directories, how to edit and manage files and their permissions, how to work with programs from the command line, and how to create virtual environments. You’ll also want to learn about git and GitHub for version control.
 I find the best way to get into the command line is to use it on a day to day basis.</p><br>
-<b> Databases.</b><br>
+<b>4). Databases.</b><br>
 <p>You’ll want to learn SQL for querying data as well as PostgreSQL for advanced database management. You should also know how to work with APIs and web scraping for creating your own datasets. Also try learning spark and map-reduce.
 </p><br>
 
-<b>Statistics</b><br>
+<b> 5). Statistics</b><br>
 <p>Next you’ll want to learn statistics fundamentals which includes sampling, frequency distributions, the mean, weighted mean, the median, the mode, measures of variability, Z-scores, probability, probability distributions, significance testing, and chi squared tests.
 Introduction to Statistical Learning and Elements of Statistical Learning will give you a statistics foundation that will make you the go to person for all things statistics.</p><br>
 
-<b> Machine Learning </b><br>
+<b>6). Machine Learning </b><br>
 <p>You will want to learn at least 10 basic algorithms for machine learning: linear regression, logistic regression, SVM, random forests, Gradient Boosting, PCA, k-means, collaborative filtering, k-NN, and ARIMA.
 You will also need to understand how to evaluate model performance, hyperparameter optimization, cross-validation, linear and nonlinear functions, basic calculus and linear algebra, feature selection and preparation, gradient descent, binary classifiers, overfitting and underfitting , decision trees, neural networks, and then you should build something with those skills and even try some kaggle competitions. You can also move on to more advanced topics like NLP and AI if interested in those.</p>
 <b>NOTE: You Should have a SPECIALIZED SKILL.</b> <br>
