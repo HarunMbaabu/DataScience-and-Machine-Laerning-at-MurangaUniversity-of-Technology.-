@@ -1,5 +1,5 @@
 <b> <center> Data Science </center></b> <br>
-<p>Data science at its most basic level is defined as using data to obtain insights and information that provide some level of value. Data science is evolving fast and has a wide range of possibilities surrounding it and so to limit it by that basic definition is kind of elementary. An extension of the that definition would be that data science is a complex combination of skills such as programming, data visualization, command line tools, databases, statistics, machine learning and more… in order to analyze data and obtain insights, information, and value from vast amounts of data.</p><br>
+<p>Data science at it's most basic level is defined as using data to obtain insights and information that provide some level of value. Data science is evolving fast and has a wide range of possibilities surrounding it and so to limit it by that basic definition is kind of elementary. An extension of the that definition would be that data science is a complex combination of skills such as programming, data visualization, command line tools, databases, statistics, machine learning and more… in order to analyze data and obtain insights, information, and value from vast amounts of data.</p><br>
 <p>Data Science can bbe viewed as a process of using data to find solution to predict outcomes for problem statement or Extracting Knowledge and information from data.</p><br>
 <p>Data Scientist is any proffessional who possesses the ability to transform raw data into useful insight to make better business decision.</p>
   <br>
@@ -51,14 +51,13 @@ Demonstrates you can do the job of a data scientist</p><br>
 Highlights only the best/most important experiences
 Visually stands out against the sea of cookie-cutter applications
 Use the correct formula to frame your projects and experiences in terms of business impact(even if they were personal/academic projects)
-Format: What you did -> How you did it -> Impact it made
-Bad: built recommender system in python
-Good: built recommender system in python using collaborative filtering and matrix factorizations that resulted in a 3% increase in basket size and a $3M increase in yearly revenue
-Make sure your resume is easy to read — use www.readable.io and aim for a 5th grade reading level
+Format: What you did -> How you did it -> Impact it made<br>
+Bad: built recommender system in python.<br>
+Good: built recommender system in python using collaborative filtering and matrix factorizations that resulted in a 3% increase in basket size and a $3M increase in yearly revenue.<br>
+Make sure your resume is easy to read — use www.readable.io and aim for a 5th grade reading level.<br>
 Make sure you have the proper keywords that using www.jobscan.co </p><br>
 <b>Your LinkedIn:</b><br>
-<p>Translate yourgit remote add origin git@github.com:HarunHM/DataScience-and-Machine-Laerning-at-MurangaUniversity-of-Technology.-.git
-git push -u origin master experiences from your resume to your LinkedIn.<br>
+<p>Translate your experiences from your resume to your LinkedIn.<br>
 -Create a summary that shows your unique skills and personality.<br>
 -Fill out the skills sections with the right skills so that recruiters find you(cut the extras that clutter your profile) Quickly and simply show your enthusiasm for their company.<br><br>
 -Briefly pitch your unique skills and how they’ll help the company(just give a preview of what you can do).</p><br>
