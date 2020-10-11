@@ -61,4 +61,4 @@ Make sure you have the proper keywords that using www.jobscan.co </p><br>
 -Create a summary that shows your unique skills and personality.<br>
 -Fill out the skills sections with the right skills so that recruiters find you(cut the extras that clutter your profile) Quickly and simply show your enthusiasm for their company.<br><br>
 -Briefly pitch your unique skills and how they’ll help the company(just give a preview of what you can do).</p><br>
-<p><i>"I am working on creating some tutorials, guides, and a complete course on data science to help all those who need it and I plan to release it very soon get in now before it closes here! Available to a Limited number of students."</i><b>  Mbaabu Harun MWenda(Data Science East Africa).</b></p>
+<p><i>"I am working on creating some tutorials, guides, and a complete course on data science to help all those who need it and I plan to release it very soon get in now before it closes here! Available to a Limited number of students."</i><b>  Mbaabu Harun MWenda - Founder Data Science East Africa.</b></p>
